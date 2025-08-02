@@ -1,0 +1,37 @@
+# 基础忽略（自动生成/临时文件）
+Library/
+Temp/
+obj/
+Logs/
+GameBuilt/
+GameBuilt.zip
+
+# 编辑器配置（个人设置不共享）
+UserSettings/
+.vs/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.pdb
+
+# 平台构建产物
+Build/
+Builds/
+Builds-*/
+*.apk
+*.aab
+*.ipa
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 资源包（如需共享需手动提交）
+*.unitypackage
+
+# 缓存文件
+*.cache
